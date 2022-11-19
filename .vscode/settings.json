@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "bit": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "condition_variable": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "algorithm": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "mutex": "cpp",
+    "ranges": "cpp",
+    "shared_mutex": "cpp",
+    "streambuf": "cpp"
+  }
+}
