@@ -13,6 +13,7 @@
     "mutex": "cpp",
     "ranges": "cpp",
     "shared_mutex": "cpp",
-    "streambuf": "cpp"
+    "streambuf": "cpp",
+    "iostream": "cpp"
   }
 }
