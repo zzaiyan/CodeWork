@@ -8,7 +8,7 @@
         "PATH": "D:\\mingw64\\bin;${env:PATH}"
       },
       "environment": [],
-      "externalConsole": false,
+      "externalConsole": true,
       "internalConsosleOptions": "neverOpen",
       "miDebuggerPath": "D:\\mingw64\\bin\\gdb.exe",
       "name": "single file debug",

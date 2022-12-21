@@ -14,6 +14,16 @@
     "ranges": "cpp",
     "shared_mutex": "cpp",
     "streambuf": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "ratio": "cpp",
+    "regex": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "vector": "cpp",
+    "functional": "cpp",
+    "random": "cpp",
+    "memory_resource": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp"
   }
 }
