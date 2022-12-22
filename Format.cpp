@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-auto eles = 6;
+auto eles = 6; // 每行元素个数
 
-auto main() -> int {
+int main() {
   ifstream ifs("C:\\Users\\1\\Desktop\\in.txt", ios::in);
-  ofstream ofs("C:\\Users\\1\\Desktop\\out.txt", ios::out);
+  ofstream ofs("C:\\Users\\1\\Desktop\\out.csv", ios::out);
 
   if (!ifs || !ofs)
     cerr << "file open error!\n";
@@ -23,5 +23,8 @@ auto main() -> int {
     }
   }
 
-  return 0;
+  cout << "Finished!\n";
+
+  ifs.close();
+  ofs.close();
 }

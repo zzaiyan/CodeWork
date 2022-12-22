@@ -11,7 +11,7 @@
         "${file}",
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe",
-        "-std=c++17"
+        "-std=c++23"
       ],
       "command": "D:\\mingw64\\bin\\g++.exe",
       "group": {
