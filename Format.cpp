@@ -1,10 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-auto eles = 6; // 每行元素个数
+auto eles = 5; // 每行元素个数
 
 int main() {
-  ifstream ifs("C:\\Users\\1\\Desktop\\in.txt", ios::in);
+  ifstream ifs("C:\\Users\\1\\Desktop\\t.txt", ios::in);
   ofstream ofs("C:\\Users\\1\\Desktop\\out.csv", ios::out);
 
   if (!ifs || !ofs)
