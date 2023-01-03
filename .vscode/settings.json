@@ -24,6 +24,7 @@
     "random": "cpp",
     "memory_resource": "cpp",
     "ostream": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "fstream": "cpp"
   }
 }
